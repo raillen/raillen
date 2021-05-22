@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Raillen Santos.
+- 💻 I've begun my studies in Dez/2020. I'm a self-learner and this is my road in this dev's journey.
+- 📚 I'm currently learning C#, JS, and Web Development.
+- 💞️ I’m looking for an opportunity to learning in it market, so... if you know about a professional internship, please, consider me.
