@@ -1,2 +1,2 @@
 - 👋  Hi, I’m Raillen Santos.
-- 💻  co-founder of @zenithguard.com.br
+- 💻  co-founder of @zenithguard
