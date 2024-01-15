@@ -1,3 +1,2 @@
 - 👋  Hi, I’m Raillen Santos.
-- 💻  Estudante de Análise e Desenvolvimento de Sistemas, tenho bastante interesse em JS, RUBY e C#.
-- Em busca de um estágio!
+- 💻  co-founder of @zenithguard.com.br
