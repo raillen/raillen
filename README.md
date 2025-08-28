@@ -1,2 +1,1 @@
-- 👋  Hi, I’m Raillen Santos.
-- 💻  co-founder of @zenithguard
+- 👋  Oi, escreve uns códigos aí (ou escrevia)...
