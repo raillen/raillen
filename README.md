@@ -2,9 +2,7 @@
 
 Gosto de **bicho**, **vinho**, **cerveja**, **igreja**, **amigos** e de **hiperfocar em coisas aleatórias**, aprendendo habilidades novas fora da minha área — porque sim. haha
 Ultimamente ando **brincando com IA**, testando os limites da geração de código e vendo até onde dá pra ir.
-Como **programação não é minha profissão** (sou de **Marketing**), a IA tem me ajudado bastante a ir além do que aprendi sozinho — que basicamente era *fazer CRUD em PHP ou Ruby* 😂.
-
-Então, a maioria dos projetos que você vai encontrar por aqui:
+Como **programação não é minha profissão** (sou de **Marketing**), a IA tem me ajudado bastante a ir além do que aprendi sozinho — que basicamente era *fazer CRUD em PHP ou Ruby* 😂. Então, a maioria dos projetos que você vai encontrar por aqui:
 
 * foi desenvolvida com **ajuda de IA.**
 * são **experimentos livres.**
