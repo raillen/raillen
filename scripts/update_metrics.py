@@ -259,11 +259,11 @@ def render_svg(metrics: dict, *, dark: bool) -> str:
         for repository in metrics["top_repositories"]
     ) or "quiet day in the lab"
 
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="900" height="405" viewBox="0 0 900 405" role="img" aria-labelledby="title desc">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
   <title id="title">Raillen Lab Pulse</title>
   <desc id="desc">Activity across Raillen, Poppy Team and Humm.run during the last 30 days.</desc>
 
-  <rect x="1" y="1" width="898" height="403" rx="22" fill="{background}" stroke="{border}"/>
+  <rect x="1" y="1" width="898" height="418" rx="22" fill="{background}" stroke="{border}"/>
 
   <text x="48" y="51" fill="{primary}" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="24" font-weight="700">
     raillen lab pulse
@@ -303,11 +303,12 @@ def render_svg(metrics: dict, *, dark: bool) -> str:
   {"".join(language_parts)}
   <text x="48" y="379" fill="{primary}" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">{escape(languages_text)}</text>
 
-  <text x="852" y="379" text-anchor="end" fill="{secondary}" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10">
+  <text x="48" y="397" fill="{secondary}" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10">
+    busy lately · {escape(repo_names)}
+  </text>
+  <text x="852" y="397" text-anchor="end" fill="{secondary}" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10">
     updated {now.date().isoformat()}
   </text>
-
-  <title>{escape(repo_names)}</title>
 </svg>
 """
 
