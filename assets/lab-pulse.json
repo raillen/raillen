@@ -1,0 +1,11 @@
+{
+  "status": "initializing",
+  "window_days": 30,
+  "owners": [
+    "raillen",
+    "poppy-team",
+    "hummrun"
+  ],
+  "public_projects": 30,
+  "note": "Automatic metric refresh is enabled through profile-metrics.yml."
+}
