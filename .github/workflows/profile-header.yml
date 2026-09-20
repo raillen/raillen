@@ -1,0 +1,44 @@
+name: Rotate profile header
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 8 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/update_header.py"
+      - ".github/workflows/profile-header.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-header:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Generate header
+        run: python scripts/update_header.py
+
+      - name: Commit changed header
+        run: |
+          if git diff --quiet -- assets/header-dark.svg assets/header-light.svg; then
+            echo "Header already matches today's rotation."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/header-dark.svg assets/header-light.svg
+          git commit -m "chore(profile): rotate header quote"
+          git push
