@@ -49,7 +49,8 @@ Basically: compilers, tooling, language experiments, and plants that somehow lea
 Small desktop software that tries to stay local, fast, useful, and understandable.
 
 **HummSuite** is home to HummTube, HummIPTV and HummMusic.  
-**Photoshow** is a fast local photo viewer/editor built around Rust + egui.
+**Photoshow** is a fast local photo viewer/editor built around Rust + egui.  
+**Petunia3D** is a native low-poly modeler focused on fast PS1/N64/DS-style asset creation, with an OpenGL-first path for older and lighter hardware.
 
 Less cloud. Less waiting. More *open it and use it*.
 
@@ -86,6 +87,7 @@ Give it time.
 - 🧰 **[Oride](https://github.com/poppy-team/oride)** — a lightweight terminal editor / mini-IDE that wants to stay fast and contained.
 - 🐝 **[HummSuite](https://github.com/hummrun/hummsuite)** — lightweight desktop media apps with a local-first mindset.
 - 🖼️ **[Photoshow](https://github.com/hummrun/photoshow)** — a fast local photo viewer/editor without databases or clouds getting in the way.
+- 🌸 **[Petunia3D](https://github.com/hummrun/petunia3d)** — a native low-poly modeler for fast retro-style asset creation, with an OpenGL-first path for modest hardware.
 
 ## numbers that probably shouldn't be taken too seriously
 
@@ -107,7 +109,11 @@ Give it time.
 </p>
 
 <p align="center">
-  <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=raillen&hide_border=true&area=true&custom_title=the%20recent%20coding%20weather" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/lab-pulse-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/lab-pulse-light.svg">
+    <img alt="Raillen Lab Pulse — 30 day activity across Raillen, Poppy Team and Humm.run" src="./assets/lab-pulse-light.svg" width="100%">
+  </picture>
 </p>
 
 <sub>
