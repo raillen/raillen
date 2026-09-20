@@ -1,28 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="405" viewBox="0 0 900 405" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
   <title id="title">Raillen Lab Pulse</title>
-  <desc id="desc">First-run placeholder for the Raillen ecosystem activity metric. Automatic GitHub data refresh is enabled.</desc>
-  <rect x="1" y="1" width="898" height="403" rx="22" fill="#ffffff" stroke="#d0d7de"/>
-  <text x="48" y="51" fill="#1f2328" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="24" font-weight="700">raillen lab pulse</text>
-  <text x="48" y="76" fill="#656d76" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="13">last 30 days across raillen · poppy team · humm.run</text>
+  <desc id="desc">Activity across Raillen, Poppy Team and Humm.run during the last 30 days.</desc>
+
+  <rect x="1" y="1" width="898" height="418" rx="22" fill="#ffffff" stroke="#d0d7de"/>
+
+  <text x="48" y="51" fill="#1f2328" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="24" font-weight="700">
+    raillen lab pulse
+  </text>
+  <text x="48" y="76" fill="#656d76" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13">
+    last 30 days across raillen · poppy team · humm.run
+  </text>
+
   <rect x="48" y="99" width="190" height="91" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="65" y="126" fill="#656d76" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="12">commits · 30d</text>
-  <text x="65" y="165" fill="#1a7f37" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="700">syncing…</text>
+  <text x="65" y="126" fill="#656d76" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">commits · 30d</text>
+  <text x="65" y="166" fill="#1a7f37" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="31" font-weight="700">294</text>
+
   <rect x="252" y="99" width="190" height="91" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="269" y="126" fill="#656d76" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="12">active repos · 30d</text>
-  <text x="269" y="165" fill="#0969da" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="700">syncing…</text>
+  <text x="269" y="126" fill="#656d76" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">active repos · 30d</text>
+  <text x="269" y="166" fill="#0969da" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="31" font-weight="700">10</text>
+
   <rect x="456" y="99" width="190" height="91" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="473" y="126" fill="#656d76" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="12">public projects</text>
-  <text x="473" y="166" fill="#8250df" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="31" font-weight="700">30</text>
+  <text x="473" y="126" fill="#656d76" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">public projects</text>
+  <text x="473" y="166" fill="#8250df" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="31" font-weight="700">12</text>
+
   <rect x="660" y="99" width="192" height="91" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="677" y="126" fill="#656d76" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="12">ecosystem</text>
-  <text x="677" y="158" fill="#9a6700" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="700">3 little homes</text>
-  <text x="677" y="178" fill="#656d76" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="11">raillen · poppy · humm</text>
-  <text x="48" y="211" fill="#656d76" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="12">daily commit weather · first refresh queued</text>
-  <rect x="48" y="291" width="18" height="11" rx="2" fill="#8250df" opacity="0.25"/><rect x="75.59" y="282.2" width="18" height="19.8" rx="2" fill="#8250df" opacity="0.27"/><rect x="103.18" y="293.2" width="18" height="8.8" rx="2" fill="#8250df" opacity="0.29"/><rect x="130.76999999999998" y="275.6" width="18" height="26.400000000000002" rx="2" fill="#8250df" opacity="0.31"/><rect x="158.36" y="286.6" width="18" height="15.400000000000002" rx="2" fill="#8250df" opacity="0.33"/><rect x="185.95" y="264.6" width="18" height="37.400000000000006" rx="2" fill="#8250df" opacity="0.35"/><rect x="213.54" y="280" width="18" height="22" rx="2" fill="#8250df" opacity="0.37"/><rect x="241.13" y="253.6" width="18" height="48.400000000000006" rx="2" fill="#8250df" opacity="0.39"/><rect x="268.72" y="273.4" width="18" height="28.6" rx="2" fill="#8250df" opacity="0.41000000000000003"/><rect x="296.31" y="284.4" width="18" height="17.6" rx="2" fill="#8250df" opacity="0.43"/><rect x="323.9" y="262.4" width="18" height="39.6" rx="2" fill="#8250df" opacity="0.45"/><rect x="351.49" y="244.8" width="18" height="57.2" rx="2" fill="#8250df" opacity="0.47"/><rect x="379.08" y="266.8" width="18" height="35.2" rx="2" fill="#8250df" opacity="0.49"/><rect x="406.67" y="277.8" width="18" height="24.200000000000003" rx="2" fill="#8250df" opacity="0.51"/><rect x="434.26" y="255.8" width="18" height="46.2" rx="2" fill="#8250df" opacity="0.53"/><rect x="461.85" y="238.2" width="18" height="63.800000000000004" rx="2" fill="#8250df" opacity="0.55"/><rect x="489.44" y="260.2" width="18" height="41.800000000000004" rx="2" fill="#8250df" opacity="0.5700000000000001"/><rect x="517.03" y="271.2" width="18" height="30.800000000000004" rx="2" fill="#8250df" opacity="0.5900000000000001"/><rect x="544.62" y="247" width="18" height="55.00000000000001" rx="2" fill="#8250df" opacity="0.61"/><rect x="572.21" y="262.4" width="18" height="39.6" rx="2" fill="#8250df" opacity="0.63"/><rect x="599.8" y="233.8" width="18" height="68.2" rx="2" fill="#8250df" opacity="0.65"/><rect x="627.39" y="249.2" width="18" height="52.800000000000004" rx="2" fill="#8250df" opacity="0.6699999999999999"/><rect x="654.98" y="266.8" width="18" height="35.2" rx="2" fill="#8250df" opacity="0.69"/><rect x="682.57" y="242.6" width="18" height="59.400000000000006" rx="2" fill="#8250df" opacity="0.71"/><rect x="710.16" y="255.8" width="18" height="46.2" rx="2" fill="#8250df" opacity="0.73"/><rect x="737.75" y="227.2" width="18" height="74.80000000000001" rx="2" fill="#8250df" opacity="0.75"/><rect x="765.34" y="244.8" width="18" height="57.2" rx="2" fill="#8250df" opacity="0.77"/><rect x="792.93" y="258" width="18" height="44" rx="2" fill="#8250df" opacity="0.79"/><rect x="820.52" y="236" width="18" height="66" rx="2" fill="#8250df" opacity="0.81"/><rect x="848.11" y="249.2" width="18" height="52.800000000000004" rx="2" fill="#8250df" opacity="0.83"/>
-  <text x="48" y="328" fill="#656d76" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="11">30 days ago</text>
-  <text x="852" y="328" text-anchor="end" fill="#656d76" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="11">today</text>
-  <text x="48" y="347" fill="#656d76" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="11">active-language mix</text>
-  <rect x="48" y="352" width="802" height="8" rx="4" fill="#8250df" opacity="0.22"/>
-  <text x="48" y="379" fill="#1f2328" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="11">collecting current repository languages…</text>
-  <text x="852" y="379" text-anchor="end" fill="#656d76" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="10">automatic refresh enabled</text>
+  <text x="677" y="126" fill="#656d76" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">ecosystem</text>
+  <text x="677" y="158" fill="#9a6700" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">3 little homes</text>
+  <text x="677" y="178" fill="#656d76" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">raillen · poppy · humm</text>
+
+  <text x="48" y="211" fill="#656d76" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">daily commit weather</text>
+  <rect x="48.00" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.38"/><rect x="74.93" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.38"/><rect x="101.87" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.38"/><rect x="128.80" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.38"/><rect x="155.73" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.38"/><rect x="182.67" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.38"/><rect x="209.60" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.38"/><rect x="236.53" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.38"/><rect x="263.47" y="293.21" width="22.93" height="8.79" rx="2" fill="#8250df" opacity="0.95"/><rect x="290.40" y="294.68" width="22.93" height="7.32" rx="2" fill="#8250df" opacity="0.95"/><rect x="317.33" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.38"/><rect x="344.27" y="297.61" width="22.93" height="4.39" rx="2" fill="#8250df" opacity="0.95"/><rect x="371.20" y="271.25" width="22.93" height="30.75" rx="2" fill="#8250df" opacity="0.95"/><rect x="398.13" y="253.68" width="22.93" height="48.32" rx="2" fill="#8250df" opacity="0.95"/><rect x="425.07" y="277.11" width="22.93" height="24.89" rx="2" fill="#8250df" opacity="0.95"/><rect x="452.00" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.95"/><rect x="478.93" y="297.61" width="22.93" height="4.39" rx="2" fill="#8250df" opacity="0.95"/><rect x="505.87" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.38"/><rect x="532.80" y="220.00" width="22.93" height="82.00" rx="2" fill="#8250df" opacity="0.95"/><rect x="559.73" y="249.29" width="22.93" height="52.71" rx="2" fill="#8250df" opacity="0.95"/><rect x="586.67" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.95"/><rect x="613.60" y="284.43" width="22.93" height="17.57" rx="2" fill="#8250df" opacity="0.95"/><rect x="640.53" y="269.79" width="22.93" height="32.21" rx="2" fill="#8250df" opacity="0.95"/><rect x="667.47" y="290.29" width="22.93" height="11.71" rx="2" fill="#8250df" opacity="0.95"/><rect x="694.40" y="220.00" width="22.93" height="82.00" rx="2" fill="#8250df" opacity="0.95"/><rect x="721.33" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.95"/><rect x="748.27" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.38"/><rect x="775.20" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.38"/><rect x="802.13" y="284.43" width="22.93" height="17.57" rx="2" fill="#8250df" opacity="0.95"/><rect x="829.07" y="299.00" width="22.93" height="3.00" rx="2" fill="#8250df" opacity="0.38"/>
+
+  <text x="48" y="328" fill="#656d76" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">
+    30 days ago
+  </text>
+  <text x="812" y="328" text-anchor="end" fill="#656d76" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">
+    today
+  </text>
+
+  <text x="48" y="347" fill="#656d76" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">active-language mix</text>
+  <rect x="49.00" y="352" width="494.96" height="8" rx="4" fill="#8250df" opacity="0.88"/><rect x="545.96" y="352" width="162.03" height="8" rx="4" fill="#8250df" opacity="0.88"/><rect x="709.99" y="352" width="32.39" height="8" rx="4" fill="#8250df" opacity="0.88"/><rect x="744.38" y="352" width="25.03" height="8" rx="4" fill="#8250df" opacity="0.88"/><rect x="771.41" y="352" width="24.55" height="8" rx="4" fill="#8250df" opacity="0.88"/>
+  <text x="48" y="379" fill="#1f2328" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">Rust 62% · Go 20% · TypeScript 4% · Svelte 3% · C 3%</text>
+
+  <text x="48" y="397" fill="#656d76" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10">
+    busy lately · aipo-lang · photoshow · hummsuite · petunia3d · prumo
+  </text>
+  <text x="852" y="397" text-anchor="end" fill="#656d76" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10">
+    updated 2026-09-20
+  </text>
 </svg>

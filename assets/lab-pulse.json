@@ -1,11 +1,41 @@
 {
-  "status": "initializing",
+  "generated_at": "2026-09-20T01:46:42.642273+00:00",
   "window_days": 30,
   "owners": [
     "raillen",
     "poppy-team",
     "hummrun"
   ],
-  "public_projects": 30,
-  "note": "Automatic metric refresh is enabled through profile-metrics.yml."
+  "commits": 294,
+  "active_repositories": 10,
+  "public_projects": 12,
+  "top_languages": [
+    [
+      "Rust",
+      61.71538238836053
+    ],
+    [
+      "Go",
+      20.203528870105067
+    ],
+    [
+      "TypeScript",
+      4.038815773566553
+    ],
+    [
+      "Svelte",
+      3.120880656661859
+    ],
+    [
+      "C",
+      3.0617184522149525
+    ]
+  ],
+  "top_repositories": [
+    "poppy-team/aipo-lang",
+    "hummrun/photoshow",
+    "hummrun/hummsuite",
+    "hummrun/petunia3d",
+    "raillen/prumo"
+  ]
 }
