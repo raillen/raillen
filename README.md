@@ -50,6 +50,7 @@ Compilers, tooling, language experiments, and developer systems.
 Tools and creative software for game development, design, and 3D.
 
 **Petunia3D** is a native low-poly modeler focused on fast PS1/N64/DS-style asset creation, with an OpenGL-first path for older and lighter hardware.  
+**Petunia Design Studio** is a high-performance desktop 2D vector design studio and document editor built with Rust.  
 **Photoshow** is a fast local photo and texture viewer/editor built around Rust + egui.  
 **HummSuite** is home to lightweight desktop media apps (HummTube, HummIPTV and HummMusic).  
 Future home for game engines, design tools, and games themselves.
@@ -88,6 +89,7 @@ Plus experimental lab work, agent setups, and open-source prototypes.
 - 🧰 **[Oride](https://github.com/poppy-team/oride)** — a lightweight terminal editor / mini-IDE that wants to stay fast and contained.
 - 🧭 **[Prumo](https://github.com/poppy-team/prumo)** — a Git-native protocol and CLI harness for projects with humans and AI agents.
 - 🌸 **[Petunia3D](https://github.com/wasd-lat/petunia3d)** — a native low-poly modeler for fast retro-style asset creation, with an OpenGL-first path for modest hardware.
+- 🎨 **Petunia Design Studio** — high-performance desktop 2D vector design studio and document editor built with Rust.
 - 🖼️ **[Photoshow](https://github.com/wasd-lat/photoshow)** — a fast local photo and asset viewer/editor without databases or clouds getting in the way.
 - 🐝 **[HummSuite](https://github.com/wasd-lat/hummsuite)** — lightweight desktop media apps with a local-first mindset.
 - 🗂️ **[Tidyflow](https://github.com/raillen/tidyflow)** — local-first desktop automation for keeping files organized.
