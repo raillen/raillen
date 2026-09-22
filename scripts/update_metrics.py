@@ -14,7 +14,7 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / "assets"
-OWNERS = ("raillen", "poppy-team", "hummrun")
+OWNERS = ("raillen", "poppy-team", "wasd-lat")
 EXCLUDED_REPOS = {"raillen/raillen"}
 WINDOW_DAYS = 30
 MAX_COMMIT_PAGES_PER_REPO = 10
@@ -261,7 +261,7 @@ def render_svg(metrics: dict, *, dark: bool) -> str:
 
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
   <title id="title">Raillen Lab Pulse</title>
-  <desc id="desc">Activity across Raillen, Poppy Team and Humm.run during the last 30 days.</desc>
+  <desc id="desc">Activity across Raillen, Poppy Team and WASD.studio during the last 30 days.</desc>
 
   <rect x="1" y="1" width="898" height="418" rx="22" fill="{background}" stroke="{border}"/>
 
@@ -269,7 +269,7 @@ def render_svg(metrics: dict, *, dark: bool) -> str:
     raillen lab pulse
   </text>
   <text x="48" y="76" fill="{secondary}" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13">
-    last 30 days across raillen · poppy team · humm.run
+    last 30 days across raillen · poppy team · wasd.studio
   </text>
 
   <rect x="48" y="99" width="190" height="91" rx="14" fill="{surface}" stroke="{border}"/>
@@ -287,7 +287,7 @@ def render_svg(metrics: dict, *, dark: bool) -> str:
   <rect x="660" y="99" width="192" height="91" rx="14" fill="{surface}" stroke="{border}"/>
   <text x="677" y="126" fill="{secondary}" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">ecosystem</text>
   <text x="677" y="158" fill="{yellow}" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">3 little homes</text>
-  <text x="677" y="178" fill="{secondary}" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">raillen · poppy · humm</text>
+  <text x="677" y="178" fill="{secondary}" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">raillen · poppy · wasd</text>
 
   <text x="48" y="211" fill="{secondary}" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">daily commit weather</text>
   {"".join(bars)}
