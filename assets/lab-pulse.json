@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-02T15:00:08.683435+00:00",
+  "generated_at": "2026-10-03T13:54:17.717191+00:00",
   "window_days": 30,
   "owners": [
     "raillen",
     "poppy-team",
     "wasd-lat"
   ],
-  "commits": 944,
+  "commits": 942,
   "active_repositories": 10,
   "public_projects": 13,
   "top_languages": [
     [
       "Rust",
-      63.327151091495395
+      63.952698508782426
     ],
     [
       "Go",
-      17.538644777525782
+      17.211936308690042
     ],
     [
       "Shell",
-      5.321004284586089
+      5.221885043359813
     ],
     [
       "Slint",
-      2.6846393044018675
+      2.6910980356304752
     ],
     [
       "TypeScript",
-      2.4850001745537162
+      2.4387097905255657
     ]
   ],
   "top_repositories": [
-    "poppy-team/prumo",
     "wasd-lat/petunia3d",
     "raillen/petunia-design-studio",
+    "poppy-team/prumo",
     "poppy-team/poppy.lat",
     "wasd-lat/photoshow"
   ]
