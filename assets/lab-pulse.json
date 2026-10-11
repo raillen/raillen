@@ -1,37 +1,38 @@
 {
-  "generated_at": "2026-10-10T14:44:13.014523+00:00",
+  "generated_at": "2026-10-11T15:04:34.662975+00:00",
   "window_days": 30,
   "owners": [
     "raillen",
     "poppy-team",
     "wasd-lat"
   ],
-  "commits": 319,
-  "active_repositories": 2,
-  "public_projects": 6,
+  "commits": 389,
+  "active_repositories": 3,
+  "public_projects": 7,
   "top_languages": [
     [
+      "Rust",
+      70.47368737624808
+    ],
+    [
       "TypeScript",
-      54.88410864005697
+      16.760601617187575
+    ],
+    [
+      "QML",
+      4.053088555162873
     ],
     [
       "CSS",
-      12.439302709527047
+      3.6196520478198533
     ],
     [
       "JavaScript",
-      10.219198148327992
-    ],
-    [
-      "Shell",
-      9.794519439318895
-    ],
-    [
-      "Rust",
-      8.933831860412418
+      2.0903710037682357
     ]
   ],
   "top_repositories": [
+    "raillen/gpui-wgpu-vwp",
     "raillen/custom-char-creator",
     "raillen/petunia-ds"
   ]
