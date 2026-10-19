@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-18T12:47:11.249182+00:00",
+  "generated_at": "2026-10-19T15:51:54.273967+00:00",
   "window_days": 30,
   "owners": [
     "raillen",
     "poppy-team",
     "wasd-lat"
   ],
-  "commits": 149,
-  "active_repositories": 5,
-  "public_projects": 6,
+  "commits": 154,
+  "active_repositories": 6,
+  "public_projects": 7,
   "top_languages": [
     [
       "TypeScript",
-      44.24780436696657
+      43.878708599271775
     ],
     [
       "Shell",
-      34.8735374280614
+      34.58263768165832
     ],
     [
       "JavaScript",
-      5.96765642406092
+      6.728979323171995
     ],
     [
       "HTML",
-      4.512553161722088
+      4.497965072157399
     ],
     [
       "CSS",
-      2.396261664547035
+      2.37627310124255
     ]
   ],
   "top_repositories": [
+    "raillen/locadora2000",
     "raillen/daisy-code-editor",
     "raillen/daisy-file-manager",
     "raillen/chocoBones",
-    "raillen/daisy-image-viewer",
-    "raillen/gpui-wgpu-vwp"
+    "raillen/daisy-image-viewer"
   ]
 }
