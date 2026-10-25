@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-24T12:55:12.174592+00:00",
+  "generated_at": "2026-10-25T13:21:08.884237+00:00",
   "window_days": 30,
   "owners": [
     "raillen",
     "poppy-team",
     "wasd-lat"
   ],
-  "commits": 159,
-  "active_repositories": 8,
-  "public_projects": 9,
+  "commits": 1158,
+  "active_repositories": 9,
+  "public_projects": 10,
   "top_languages": [
     [
+      "Rust",
+      88.2725896886689
+    ],
+    [
       "TypeScript",
-      41.33781137675266
+      4.546256183658651
     ],
     [
       "Shell",
-      32.58388346604492
+      3.751394137512101
     ],
     [
       "JavaScript",
-      7.602199384309978
-    ],
-    [
-      "HTML",
-      4.8472690732464745
+      0.9634271428201252
     ],
     [
       "Python",
-      4.055888733560511
+      0.6697237064456066
     ]
   ],
   "top_repositories": [
+    "raillen/photocraft-ai-diffusion",
     "raillen/mua2",
     "raillen/image-map-generator",
     "raillen/locadora2000",
-    "raillen/daisy-code-editor",
-    "raillen/daisy-file-manager"
+    "raillen/daisy-code-editor"
   ]
 }
