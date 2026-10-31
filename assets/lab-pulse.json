@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-30T15:20:02.849619+00:00",
+  "generated_at": "2026-10-31T14:44:40.380179+00:00",
   "window_days": 30,
   "owners": [
     "raillen",
     "poppy-team",
     "wasd-lat"
   ],
-  "commits": 1131,
-  "active_repositories": 8,
+  "commits": 1147,
+  "active_repositories": 9,
   "public_projects": 9,
   "top_languages": [
     [
       "Rust",
-      88.06180267222166
+      87.18835046053478
     ],
     [
       "TypeScript",
-      4.264338154769149
+      4.42140934777016
     ],
     [
       "Shell",
-      3.5282857494640005
+      3.436060177048203
     ],
     [
       "JavaScript",
-      1.3433543123990936
+      1.4773351253200622
     ],
     [
       "Python",
-      0.9629168658539942
+      0.9377472607119787
     ]
   ],
   "top_repositories": [
+    "raillen/tidyflow",
     "raillen/photocraft-ai-diffusion",
     "raillen/mua2",
     "raillen/locadora2000",
-    "raillen/daisy-code-editor",
-    "raillen/daisy-file-manager"
+    "raillen/daisy-code-editor"
   ]
 }
