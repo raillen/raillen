@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-11-13T16:43:46.254055+00:00",
+  "generated_at": "2026-11-14T15:20:09.045890+00:00",
   "window_days": 30,
   "owners": [
     "raillen",
     "poppy-team",
     "wasd-lat"
   ],
-  "commits": 1082,
-  "active_repositories": 6,
+  "commits": 1046,
+  "active_repositories": 5,
   "public_projects": 9,
   "top_languages": [
     [
       "Rust",
-      91.28709964153377
+      93.75542230484344
     ],
     [
       "TypeScript",
-      2.4581837655933225
+      1.684993471655848
     ],
     [
       "Shell",
-      2.4402454603342942
+      1.0742640411718443
     ],
     [
       "JavaScript",
-      1.1236684705447806
+      1.014115580599827
     ],
     [
       "Python",
-      0.8720694563734418
+      0.8700413207282542
     ]
   ],
   "top_repositories": [
