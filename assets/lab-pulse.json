@@ -1,39 +1,40 @@
 {
-  "generated_at": "2026-11-26T18:38:01.691362+00:00",
+  "generated_at": "2026-11-27T18:27:02.963553+00:00",
   "window_days": 30,
   "owners": [
     "raillen",
     "poppy-team",
     "wasd-lat"
   ],
-  "commits": 36,
-  "active_repositories": 3,
-  "public_projects": 9,
+  "commits": 29,
+  "active_repositories": 4,
+  "public_projects": 11,
   "top_languages": [
     [
       "Rust",
-      96.21186071227152
+      96.58633681927019
     ],
     [
-      "JavaScript",
-      0.928336951090312
-    ],
-    [
-      "Python",
-      0.8766012224375431
+      "HTML",
+      0.819594557314337
     ],
     [
       "Svelte",
-      0.7980938831313418
+      0.801200226654499
     ],
     [
       "TypeScript",
-      0.2966087266672259
+      0.7812322105119344
+    ],
+    [
+      "JavaScript",
+      0.2548877850040199
     ]
   ],
   "top_repositories": [
+    "raillen/charcraft",
+    "raillen/polycraft",
     "raillen/photocraft-ai-diffusion",
-    "raillen/tidyflow",
-    "raillen/mua2"
+    "raillen/tidyflow"
   ]
 }
