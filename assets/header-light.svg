@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-labelledby="title desc">
   <title id="title">Raillen profile header</title>
-  <desc id="desc">Live long and prosper. — Star Trek</desc>
+  <desc id="desc">Bears. Beets. Battlestar Galactica. — The Office</desc>
 
   <rect x="1" y="1" width="898" height="208" rx="22" fill="#ffffff" stroke="#d0d7de"/>
 
@@ -19,10 +19,10 @@
   <line x1="49" y1="122" x2="851" y2="122" stroke="#d0d7de"/>
 
   <text x="49" y="158" fill="#1f2328" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic">
-    “Live long and prosper.”
+    “Bears. Beets. Battlestar Galactica.”
   </text>
 
   <text x="49" y="183" fill="#8250df" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" font-weight="600">
-    — Star Trek
+    — The Office
   </text>
 </svg>
